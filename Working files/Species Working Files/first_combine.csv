@@ -1,0 +1,427 @@
+,0,1
+0,Hedgehog,Brown long-eared bat
+1,European mole,Fraser�s dolphin
+2,Common shrew,Lesser horseshoe bat
+3,Pygmy shrew,Yellow-necked mouse
+4,Water shrew,House mouse
+5,Lesser white-toothed shrew,Greater horseshoe bat
+6,Greater white-toothed shrew,Common vole
+7,European rabbit,Red deer
+8,Brown hare,Fraser�s dolphin
+9,Mountain hare,Hedgehog
+10,Irish hare,Harvest mouse
+11,Red squirrel,Otter
+12,Grey squirrel,Red squirrel
+13,Eurasian beaver,Common pipstrelle bat
+14,Hazel dormouse,House mouse
+15,Edible dormouse,Water shrew
+16,Bank vole,Leisler�s bat
+17,Skomer vole,Brown hare
+18,Field vole,Natterer�s bat
+19,Common vole,Water vole
+20,Guernsey vole,Harvest mouse
+21,Orkney vole,European mole
+22,Water vole,Otter
+23,Harvest mouse,Common pipstrelle bat
+24,Wood mouse,Red deer
+25,Yellow-necked mouse,Weasel
+26,House mouse,Stoat
+27,Brown rat,Badger
+28,Black rat,Badger
+29,Wildcat,Grey seal
+30,Feral cat,Grey seal
+31,Red fox,Barbastelle bat
+32,Badger,Feral cat
+33,Otter,Lesser white-toothed shrew
+34,Pine marten,Lesser horseshoe bat
+35,Stoat,Bearded seal
+36,Weasel,Hazel dormouse
+37,Polecat,Greater horseshoe bat
+38,Feral ferret,Harbour porpoise
+39,American mink,Stoat
+40,Wild boar,Roe deer
+41,Red deer,Otter
+42,Sika deer,Atlantic white-sided dolphin
+43,Fallow deer,Badger
+44,Roe deer,Badger
+45,Chinese water deer,Greater white-toothed shrew
+46,Reeves’ muntjac deer,Water shrew
+47,Feral horse (Exmoor / Dartmoor pony),Beluga
+48,Greater horseshoe bat,Badger
+49,Lesser horseshoe bat,Harvest mouse
+50,Alcathoe bat,Black rat
+51,Whiskered bat,Grey long-eared bat
+52,Brandt’s bat,Hedgehog
+53,Bechstein’s bat,Common pipstrelle bat
+54,Daubenton’s bat,Wood mouse
+55,Greater mouse-eared bat,Badger
+56,Natterer’s bat,Narwhal
+57,Serotine bat,Hazel dormouse
+58,Leisler’s bat,Badger
+59,Noctule bat,European rabbit
+60,Common pipstrelle bat,Hedgehog
+61,Soprano pipistrelle bat,Harp seal
+62,Nathusius’ pipistrelle bat,Hazel dormouse
+63,Barbastelle bat,Red fox
+64,Brown long-eared bat,Greater horseshoe bat
+65,Grey long-eared bat,European mole
+66,Harbour seal,Edible dormouse
+67,Grey seal,Hedgehog
+68,Bearded seal,Weasel
+69,Harp seal,Brown hare
+70,Hooded seal,Common shrew
+71,Ringed seal ,Harvest mouse
+72,Walrus,Common shrew
+73,North Atlantic right whale,Brandt�s bat
+74,Bowhead whale,Bearded seal
+75,Humpback whale,Brandt�s bat
+76,Blue whale,Edible dormouse
+77,Fin whale,Barbastelle bat
+78,Sei whale,Water vole
+79,Minke whale,Pygmy shrew
+80,Northern bottlenose whale,Common shrew
+81,Cuvier’s beaked whale,Pygmy shrew
+82,Sowerby’s beaked whale,Otter
+83,Pygmy sperm whale,Common pipstrelle bat
+84,Dwarf sperm whale,Red squirrel
+85,Sperm whale,Badger
+86,Beluga,Lesser white-toothed shrew
+87,Killer whale or orca,House mouse
+88,False killer whale,Whiskered bat
+89,Long-finned pilot whale,Stoat
+90,Risso’s dolphin,Brown rat
+91,Atlantic white-sided dolphin,Hazel dormouse
+92,White-beaked dolphin,Nathusius� pipistrelle bat
+93,Common dolphin,Common shrew
+94,Striped dolphin,Barbastelle bat
+95,Bottlenose dolphin,Common shrew
+96,Harbour porpoise,Red fox
+97,Blainville’s beaked whale,Common pipstrelle bat
+98,Gervais’ beaked whale,House mouse
+99,True’s beaked whale,Red deer
+100,Narwhal,Brown long-eared bat
+101,Melon-headed whale,Northern bottlenose whale
+102,Fraser’s dolphin,Pine marten
+103,,Daubenton�s bat
+104,,Skomer vole
+105,,Water shrew
+106,,Hedgehog
+107,,Hedgehog
+108,,Red fox
+109,,European rabbit
+110,,Badger
+111,,Badger
+112,,Common dolphin
+113,,Alcathoe bat
+114,,House mouse
+115,,Hedgehog
+116,,Skomer vole
+117,,Black rat
+118,,Hedgehog
+119,,Red fox
+120,,Stoat
+121,,European rabbit
+122,,Brown long-eared bat
+123,,Common pipstrelle bat
+124,,Fallow deer
+125,,Common pipstrelle bat
+126,,Grey seal
+127,,Noctule bat
+128,,Sika deer
+129,,Cuvier�s beaked whale
+130,,Hedgehog
+131,,Harbour porpoise
+132,,Greater mouse-eared bat
+133,,Hazel dormouse
+134,,Red squirrel
+135,,Brown hare
+136,,Otter
+137,,Hedgehog
+138,,Hedgehog
+139,,Red deer
+140,,Wildcat
+141,,Bearded seal
+142,,Hedgehog
+143,,Greater mouse-eared bat
+144,,Weasel
+145,,Fallow deer
+146,,European rabbit
+147,,Polecat
+148,,Brown hare
+149,,Grey seal
+150,,Brown rat
+151,,Brown rat
+152,,Brown hare
+153,,Common shrew
+154,,Feral ferret
+155,,Fin whale
+156,,Whiskered bat
+157,,Red fox
+158,,Irish hare
+159,,Wildcat
+160,,Common vole
+161,,Feral cat
+162,,Roe deer
+163,,Harbour seal
+164,,Common pipstrelle bat
+165,,Brown hare
+166,,Otter
+167,,Brown hare
+168,,Feral horse (Exmoor / Dartmoor pony)
+169,,Beluga
+170,,Red fox
+171,,Pygmy shrew
+172,,Atlantic white-sided dolphin
+173,,Common shrew
+174,,Water vole
+175,,Grey seal
+176,,Mountain hare
+177,,Grey squirrel
+178,,Grey squirrel
+179,,Harbour seal
+180,,Fallow deer
+181,,European rabbit
+182,,Natterer�s bat
+183,,Red fox
+184,,Yellow-necked mouse
+185,,Dwarf sperm whale
+186,,Greater horseshoe bat
+187,,Badger
+188,,Roe deer
+189,,Stoat
+190,,Brown long-eared bat
+191,,Common vole
+192,,Red deer
+193,,Red squirrel
+194,,Hedgehog
+195,,Mountain hare
+196,,Grey long-eared bat
+197,,Edible dormouse
+198,,Fallow deer
+199,,Leisler�s bat
+200,,Grey squirrel
+201,,Serotine bat
+202,,Common dolphin
+203,,Brown long-eared bat
+204,,Hedgehog
+205,,Black rat
+206,,European mole
+207,,Harvest mouse
+208,,Fallow deer
+209,,Red fox
+210,,Bowhead whale
+211,,Wood mouse
+212,,Soprano pipistrelle bat
+213,,Red deer
+214,,Alcathoe bat
+215,,Bottlenose dolphin
+216,,Grey long-eared bat
+217,,Pygmy shrew
+218,,Bearded seal
+219,,Red squirrel
+220,,Common vole
+221,,Wood mouse
+222,,Otter
+223,,Brown rat
+224,,Hedgehog
+225,,Otter
+226,,Hedgehog
+227,,Wood mouse
+228,,Grey long-eared bat
+229,,Soprano pipistrelle bat
+230,,Irish hare
+231,,Hedgehog
+232,,Skomer vole
+233,,Brown rat
+234,,Pygmy shrew
+235,,Grey squirrel
+236,,Badger
+237,,Weasel
+238,,White-beaked dolphin
+239,,Sika deer
+240,,Pygmy shrew
+241,,European rabbit
+242,,American mink
+243,,Roe deer
+244,,Edible dormouse
+245,,House mouse
+246,,Feral cat
+247,,Field vole
+248,,Hazel dormouse
+249,,Common vole
+250,,Hedgehog
+251,,Chinese water deer
+252,,Common vole
+253,,Common pipstrelle bat
+254,,False killer whale
+255,,False killer whale
+256,,Eurasian beaver
+257,,Red squirrel
+258,,Wood mouse
+259,,Weasel
+260,,Stoat
+261,,Harvest mouse
+262,,Red fox
+263,,Fallow deer
+264,,Hedgehog
+265,,Daubenton�s bat
+266,,Pygmy shrew
+267,,Harp seal
+268,,Hedgehog
+269,,Ringed seal 
+270,,Common shrew
+271,,Harvest mouse
+272,,Badger
+273,,Black rat
+274,,Brown hare
+275,,Wood mouse
+276,,Red squirrel
+277,,Hedgehog
+278,,Otter
+279,,Barbastelle bat
+280,,Hedgehog
+281,,Grey squirrel
+282,,Harbour porpoise
+283,,Brown hare
+284,,Mountain hare
+285,,Fin whale
+286,,Hedgehog
+287,,Fraser�s dolphin
+288,,Red squirrel
+289,,Grey long-eared bat
+290,,Fallow deer
+291,,Weasel
+292,,Grey squirrel
+293,,Field vole
+294,,Walrus
+295,,Otter
+296,,Orkney vole
+297,,Bank vole
+298,,Skomer vole
+299,,Risso�s dolphin
+300,,Common pipstrelle bat
+301,,Harvest mouse
+302,,Nathusius� pipistrelle bat
+303,,Fallow deer
+304,,Wood mouse
+305,,Badger
+306,,Greater horseshoe bat
+307,,Roe deer
+308,,Grey seal
+309,,Brown rat
+310,,Badger
+311,,Feral cat
+312,,Pine marten
+313,,Stoat
+314,,Nathusius� pipistrelle bat
+315,,Fallow deer
+316,,Harvest mouse
+317,,Mountain hare
+318,,European rabbit
+319,,Badger
+320,,Red fox
+321,,Brown long-eared bat
+322,,Pygmy shrew
+323,,Harvest mouse
+324,,Grey squirrel
+325,,Hedgehog
+326,,American mink
+327,,Orkney vole
+328,,Roe deer
+329,,Otter
+330,,House mouse
+331,,Greater white-toothed shrew
+332,,Field vole
+333,,Badger
+334,,Irish hare
+335,,European rabbit
+336,,Common shrew
+337,,Common vole
+338,,Common pipstrelle bat
+339,,Hedgehog
+340,,Greater horseshoe bat
+341,,Noctule bat
+342,,Bechstein�s bat
+343,,Red fox
+344,,Chinese water deer
+345,,Red fox
+346,,Harbour porpoise
+347,,Common pipstrelle bat
+348,,Red fox
+349,,Badger
+350,,Black rat
+351,,Badger
+352,,Common shrew
+353,,European mole
+354,,Serotine bat
+355,,Brown hare
+356,,Brown rat
+357,,Field vole
+358,,Common vole
+359,,Hooded seal
+360,,Common shrew
+361,,Grey squirrel
+362,,House mouse
+363,,European mole
+364,,Fallow deer
+365,,European rabbit
+366,,Hedgehog
+367,,Irish hare
+368,,Harbour seal
+369,,Eurasian beaver
+370,,Feral ferret
+371,,True�s beaked whale
+372,,Feral horse (Exmoor / Dartmoor pony)
+373,,Bechstein�s bat
+374,,Feral horse (Exmoor / Dartmoor pony)
+375,,Grey seal
+376,,Red fox
+377,,Brown rat
+378,,Roe deer
+379,,Red fox
+380,,Brown hare
+381,,Common vole
+382,,Humpback whale
+383,,Water vole
+384,,Grey squirrel
+385,,Long-finned pilot whale
+386,,Fraser�s dolphin
+387,,Hedgehog
+388,,Otter
+389,,Water shrew
+390,,Greater mouse-eared bat
+391,,Field vole
+392,,Red deer
+393,,Otter
+394,,Common pipstrelle bat
+395,,Black rat
+396,,Badger
+397,,Red fox
+398,,Bank vole
+399,,Brown rat
+400,,Badger
+401,,Reeves� muntjac deer
+402,,Badger
+403,,Wildcat
+404,,Wood mouse
+405,,Pygmy shrew
+406,,Badger
+407,,Harbour seal
+408,,Common vole
+409,,Polecat
+410,,Badger
+411,,Wild boar
+412,,Hedgehog
+413,,European mole
+414,,Red fox
+415,,House mouse
+416,,Hedgehog
+417,,Common vole
+418,,Feral horse (Exmoor / Dartmoor pony)
+419,,Grey long-eared bat
+420,,Red fox
+421,,Weasel
+422,,Stoat
+423,,Red fox
+424,,Greater mouse-eared bat
+425,,Hedgehog

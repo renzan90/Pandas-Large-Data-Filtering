@@ -1,0 +1,427 @@
+admittal_number,date_admitted,patient_id,district,species
+76198,1/06/2018,148588,Cornwall,Brown long-eared bat
+76199,1/06/2018,148668,Kent,Fraser’s dolphin
+76200,1/06/2018,148682,Suffolk,Lesser horseshoe bat
+76201,1/06/2018,148890,Staffordshire,Yellow-necked mouse
+76202,1/06/2018,148900,Merseyside,House mouse
+76203,1/06/2018,148962,Northumberland,Greater horseshoe bat
+76204,1/06/2018,149036,Cynon,Common vole
+76205,1/06/2018,149060,Montgomery,Red deer
+76206,1/06/2018,149166,Fife,Fraser’s dolphin
+76207,1/06/2018,149242,Ballymoney,Hedgehog
+76208,1/06/2018,149212,Devon,Harvest mouse
+76209,1/06/2018,149360,North London,Otter
+76210,1/06/2018,149428,Norfolk,Red squirrel
+76211,1/06/2018,149468,West Midlands,Common pipstrelle bat
+76212,2/06/2018,148590,Manchester,House mouse
+76213,2/06/2018,148670,Dumfries and Galloway,Water shrew
+76214,2/06/2018,148684,Merthyr Tydfil,Leisler’s bat
+76215,2/06/2018,148892,Meirionnydd,Brown hare
+76216,2/06/2018,148902,Newry No.1,Natterer’s bat
+76217,2/06/2018,148964,Ballycastle,Water vole
+76218,2/06/2018,149038,Somerset,Harvest mouse
+76219,2/06/2018,149112,South London,European mole
+76220,2/06/2018,149168,Bristol,Otter
+76221,2/06/2018,149244,Warwickshire,Common pipstrelle bat
+76222,2/06/2018,149216,Lancashire,Red deer
+76223,2/06/2018,149362,Ayrshire and Lanark,Weasel
+76224,2/06/2018,149430,Swansea,Stoat
+76225,2/06/2018,149472,Dwyfor,Badger
+76226,3/06/2018,148594,East Down,Badger
+76227,3/06/2018,148752,Ballymena,Grey seal
+76228,3/06/2018,148686,Cornwall,Grey seal
+76229,3/06/2018,148998,Buckinghamshire,Barbastelle bat
+76230,3/06/2018,148904,Gloucestershire,Feral cat
+76231,3/06/2018,148966,Leicestershire,Lesser white-toothed shrew
+76232,3/06/2018,149040,West Yorkshire,Lesser horseshoe bat
+76233,3/06/2018,149114,Fife,Bearded seal
+76234,3/06/2018,149170,Lliw Valley,Hazel dormouse
+76235,3/06/2018,149250,Arfon,Greater horseshoe bat
+76236,3/06/2018,149220,Edinburgh,Harbour porpoise
+76237,3/06/2018,149364,Larne,Stoat
+76238,3/06/2018,149318,Hampshire,Roe deer
+76239,3/06/2018,149476,Hertfordshire,Otter
+76240,4/06/2018,148596,Anglesey,Atlantic white-sided dolphin
+76241,4/06/2018,148884,Nottinghamshire,Badger
+76242,4/06/2018,148690,North Yorkshire,Badger
+76243,4/06/2018,148734,Argyll and Bute,Greater white-toothed shrew
+76244,4/06/2018,148906,Neath,Water shrew
+76245,4/06/2018,148968,Anglesey,Beluga
+76246,4/06/2018,149042,Hillsborough,Badger
+76247,4/06/2018,149116,Antrim,Harvest mouse
+76248,4/06/2018,149172,Berkshire,Black rat
+76249,4/06/2018,149254,Essex,Grey long-eared bat
+76250,4/06/2018,149226,Oxfordshire,Hedgehog
+76251,4/06/2018,149366,Derbyshire,Common pipstrelle bat
+76252,4/06/2018,149438,Cumbria,Wood mouse
+76253,4/06/2018,149480,Borders,Badger
+76254,5/06/2018,148598,Fife,Narwhal
+76255,5/06/2018,148708,Aberconwy,Hazel dormouse
+76256,5/06/2018,148694,North Down,Badger
+76257,5/06/2018,148758,Newtownabbey,European rabbit
+76258,5/06/2018,148908,Surrey,Hedgehog
+76259,5/06/2018,148970,Fife,Harp seal
+76260,5/06/2018,149278,Hereford and Worcestershire,Hazel dormouse
+76261,5/06/2018,149118,South Yorkshire,Red fox
+76262,5/06/2018,149174,Durham,Greater horseshoe bat
+76263,5/06/2018,149258,Edinburgh,European mole
+76264,5/06/2018,149228,Newport,Edible dormouse
+76265,5/06/2018,149368,Glyndwr,Hedgehog
+76266,5/06/2018,149454,Castlereagh,Weasel
+76267,5/06/2018,149486,Lisburn,Brown hare
+76268,6/06/2018,148602,West Sussex,Common shrew
+76269,6/06/2018,148710,Bedfordshire,Harvest mouse
+76270,6/06/2018,148696,Shropshire,Common shrew
+76271,6/06/2018,148774,Lincolnshire,Brandt’s bat
+76272,6/06/2018,148910,Dunfries and Galloway,Bearded seal
+76273,6/06/2018,148972,Central,Brandt’s bat
+76274,6/06/2018,149044,Islwyn,Edible dormouse
+76275,6/06/2018,149120,Wrexham Maelor,Barbastelle bat
+76276,6/06/2018,149176,Moira,Water vole
+76277,6/06/2018,149260,East Sussex,Pygmy shrew
+76278,6/06/2018,149230,Cambridgeshire,Common shrew
+76279,6/06/2018,149372,Cheshire,Pygmy shrew
+76280,6/06/2018,149456,Humberside,Otter
+76281,6/06/2018,149490,Newcastle,Common pipstrelle bat
+76282,7/06/2018,148606,Fife,Red squirrel
+76283,7/06/2018,148712,Torfaen,Badger
+76284,7/06/2018,148698,Alyn and Deeside,Lesser white-toothed shrew
+76285,7/06/2018,148796,Clogher,House mouse
+76286,7/06/2018,148912,Tayside,Whiskered bat
+76287,7/06/2018,148974,Monmouth,Stoat
+76288,7/06/2018,149056,Colwyn,Brown rat
+76289,7/06/2018,149126,Dungannon,Hazel dormouse
+76290,7/06/2018,149178,Grampian,Nathusius’ pipistrelle bat
+76291,7/06/2018,149262,Blaenau Gwent,Common shrew
+76292,7/06/2018,149232,Rhuddian,Barbastelle bat
+76293,7/06/2018,149374,Castlederg,Common shrew
+76294,7/06/2018,149458,Highland,Red fox
+76295,7/06/2018,149496,Llanelli,Common pipstrelle bat
+76296,8/06/2018,148610,Delyn,House mouse
+76297,8/06/2018,148714,Omagh,Red deer
+76298,8/06/2018,148840,Western Isles,Brown long-eared bat
+76299,8/06/2018,148810,South Pembrokeshire,Northern bottlenose whale
+76300,8/06/2018,148918,Irvinestown,Pine marten
+76301,8/06/2018,148976,Cookstown,Daubenton’s bat
+76302,8/06/2018,149058,Vale of Glamorgan,Skomer vole
+76303,8/06/2018,149144,Camarthen,Water shrew
+76304,8/06/2018,149180,Enniskillen,Hedgehog
+76305,8/06/2018,149264,Strabane,Hedgehog
+76306,8/06/2018,149248,Cardiff,Red fox
+76307,8/06/2018,149376,Preseli,European rabbit
+76308,8/06/2018,149460,Lisnakea,Badger
+76309,8/06/2018,149500,Londonderry,Badger
+76310,9/06/2018,148850,Fife,Common dolphin
+76311,9/06/2018,148716,Dinefwr,Alcathoe bat
+76312,9/06/2018,148874,Armagh,House mouse
+76313,9/06/2018,148812,Limavady,Hedgehog
+76314,9/06/2018,148922,Taff-Ely,Skomer vole
+76315,9/06/2018,148978,Ceredigigion,Black rat
+76316,9/06/2018,149062,Newry No.2,Hedgehog
+76317,9/06/2018,148986,Magherafelt,Red fox
+76318,9/06/2018,149182,Rhymney Valley,Stoat
+76319,9/06/2018,149266,Brecknock,European rabbit
+76320,9/06/2018,149252,Tanderagee,Brown long-eared bat
+76321,9/06/2018,149256,Coleraine,Common pipstrelle bat
+76322,9/06/2018,149462,Rhondda,Fallow deer
+76323,9/06/2018,149502,Radnor,Common pipstrelle bat
+76324,10/06/2018,148852,Devon,Grey seal
+76325,10/06/2018,148720,Belfast,Noctule bat
+76326,10/06/2018,148888,Lliw Valley,Sika deer
+76327,10/06/2018,148814,Cumbria,Cuvier’s beaked whale
+76328,10/06/2018,148926,Shropshire,Hedgehog
+76329,10/06/2018,149046,Colwyn,Harbour porpoise
+76330,10/06/2018,149064,Cardiff,Greater mouse-eared bat
+76331,10/06/2018,148988,Lurgan,Hazel dormouse
+76332,10/06/2018,149184,Kent,Red squirrel
+76333,10/06/2018,149268,Ballycastle,Brown hare
+76334,10/06/2018,149302,Arfon,Otter
+76335,10/06/2018,149298,Borders,Hedgehog
+76336,10/06/2018,149464,Lincolnshire,Hedgehog
+76337,10/06/2018,149410,Dungannon,Red deer
+76338,11/06/2018,148612,Preseli,Wildcat
+76339,11/06/2018,148724,,Bearded seal
+76340,11/06/2018,148992,Suffolk,Hedgehog
+76341,11/06/2018,148816,Somerset,Greater mouse-eared bat
+76342,11/06/2018,148928,Banbridge,Weasel
+76343,11/06/2018,149048,Afan,Fallow deer
+76344,11/06/2018,149066,Cleveland,European rabbit
+76345,11/06/2018,149000,Grampian,Polecat
+76346,11/06/2018,149186,Lisnakea,Brown hare
+76347,11/06/2018,149270,Fife,Grey seal
+76348,11/06/2018,149324,South London,Brown rat
+76349,11/06/2018,149308,Larne,Brown rat
+76350,11/06/2018,149466,Aberconwy,Brown hare
+76351,11/06/2018,149412,Central,Common shrew
+76352,12/06/2018,148618,Blaenau Gwent,Feral ferret
+76353,12/06/2018,148726,Londonderry,Fin whale
+76354,12/06/2018,148746,Merseyside,Whiskered bat
+76355,12/06/2018,148818,Bristol,Red fox
+76356,12/06/2018,148930,Hampshire,Irish hare
+76357,12/06/2018,149050,North Down,Wildcat
+76358,12/06/2018,149068,Islwyn,Common vole
+76359,12/06/2018,149098,Rhuddian,Feral cat
+76360,12/06/2018,149188,Ogwr,Roe deer
+76361,12/06/2018,149272,Fife,Harbour seal
+76362,12/06/2018,149332,Warwickshire,Common pipstrelle bat
+76363,12/06/2018,149378,Hertfordshire,Brown hare
+76364,12/06/2018,149470,Newtownabbey,Otter
+76365,12/06/2018,149420,Wrexham Maelor,Brown hare
+76366,13/06/2018,148620,Devon,Feral horse (Exmoor / Dartmoor pony)
+76367,13/06/2018,148728,Cornwall,Beluga
+76368,13/06/2018,148754,Cynon,Red fox
+76369,13/06/2018,148820,Lancashire,Pygmy shrew
+76370,13/06/2018,148932,Devon,Atlantic white-sided dolphin
+76371,13/06/2018,148980,Surrey,Common shrew
+76372,13/06/2018,149072,Moira,Water vole
+76373,13/06/2018,149124,Cornwall,Grey seal
+76374,13/06/2018,149190,Armagh,Mountain hare
+76375,13/06/2018,149274,Montgomery,Grey squirrel
+76376,13/06/2018,149334,Ayrshire and Lanark,Grey squirrel
+76377,13/06/2018,149380,Edinburgh,Harbour seal
+76378,13/06/2018,149474,Northamptonshire,Fallow deer
+76379,13/06/2018,149442,East Sussex,European rabbit
+76380,14/06/2018,148622,Llanelli,Natterer’s bat
+76381,14/06/2018,148730,Limavady,Red fox
+76382,14/06/2018,148762,South Down,Yellow-necked mouse
+76383,14/06/2018,148822,Swansea,Dwarf sperm whale
+76384,14/06/2018,149052,North Yorkshire,Greater horseshoe bat
+76385,14/06/2018,148982,Hereford and Worcestershire,Badger
+76386,14/06/2018,149074,Cambridgeshire,Roe deer
+76387,14/06/2018,149128,Delyn,Stoat
+76388,14/06/2018,149194,Taff-Ely,Brown long-eared bat
+76389,14/06/2018,149276,Ballymoney,Common vole
+76390,14/06/2018,149336,Dwyfor,Red deer
+76391,14/06/2018,149382,Argyll and Bute,Red squirrel
+76392,14/06/2018,149478,South Yorkshire,Hedgehog
+76393,14/06/2018,148544,Cheshire,Mountain hare
+76394,15/06/2018,148626,Omagh,Grey long-eared bat
+76395,15/06/2018,148736,Ceredigigion,Edible dormouse
+76396,15/06/2018,148766,Devon,Fallow deer
+76397,15/06/2018,148824,East Down,Leisler’s bat
+76398,15/06/2018,149106,Neath,Grey squirrel
+76399,15/06/2018,148984,Durham,Serotine bat
+76400,15/06/2018,149078,Fife,Common dolphin
+76401,15/06/2018,149130,Western Isles,Brown long-eared bat
+76402,15/06/2018,149198,Newry No.2,Hedgehog
+76403,15/06/2018,149280,North London,Black rat
+76404,15/06/2018,149338,Ballymena,European mole
+76405,15/06/2018,149384,Anglesey,Harvest mouse
+76406,15/06/2018,149488,Edinburgh,Fallow deer
+76407,15/06/2018,148550,Newcastle,Red fox
+76408,16/06/2018,148628,South Pembrokeshire,Bowhead whale
+76409,16/06/2018,148740,Magherafelt,Wood mouse
+76410,16/06/2018,148776,Norfolk,Soprano pipistrelle bat
+76411,16/06/2018,148826,Dorset,Red deer
+76412,16/06/2018,148854,Hillsborough,Alcathoe bat
+76413,16/06/2018,148990,Newport,Bottlenose dolphin
+76414,16/06/2018,149080,Fife,Grey long-eared bat
+76415,16/06/2018,149132,Irvinestown,Pygmy shrew
+76416,16/06/2018,149202,,Bearded seal
+76417,16/06/2018,149282,West Midlands,Red squirrel
+76418,16/06/2018,149340,Buckinghamshire,Common vole
+76419,16/06/2018,149386,Antrim,Wood mouse
+76420,16/06/2018,149492,Glyndwr,Otter
+76421,16/06/2018,148556,Torfaen,Brown rat
+76422,17/06/2018,148630,Cookstown,Hedgehog
+76423,17/06/2018,148742,Brecknock,Otter
+76424,17/06/2018,148780,Manchester,Hedgehog
+76425,17/06/2018,148828,Gloucestershire,Wood mouse
+76426,17/06/2018,148934,Berkshire,Grey long-eared bat
+76427,17/06/2018,148994,Castlereagh,Soprano pipistrelle bat
+76428,17/06/2018,149082,Alyn and Deeside,Irish hare
+76429,17/06/2018,149134,Vale of Glamorgan,Hedgehog
+76430,17/06/2018,149206,Tanderagee,Skomer vole
+76431,17/06/2018,149284,Dumfries and Galloway,Brown rat
+76432,17/06/2018,149342,Leicestershire,Pygmy shrew
+76433,17/06/2018,149394,Essex,Grey squirrel
+76434,17/06/2018,149494,Lisburn,Badger
+76435,17/06/2018,148558,Clogher,Weasel
+76436,18/06/2018,148634,Camarthen,White-beaked dolphin
+76437,18/06/2018,148744,Coleraine,Sika deer
+76438,18/06/2018,148782,Merthyr Tydfil,Pygmy shrew
+76439,18/06/2018,148830,West Yorkshire,European rabbit
+76440,18/06/2018,148936,Oxfordshire,American mink
+76441,18/06/2018,148996,West Sussex,Roe deer
+76442,18/06/2018,149084,Tayside,Edible dormouse
+76443,18/06/2018,149138,Enniskillen,House mouse
+76444,18/06/2018,149210,Rhondda,Feral cat
+76445,18/06/2018,149286,Meirionnydd,Field vole
+76446,18/06/2018,149344,Glasgow,Hazel dormouse
+76447,18/06/2018,149396,Derbyshire,Common vole
+76448,18/06/2018,149498,Bedfordshire,Hedgehog
+76449,18/06/2018,148560,Monmouth,Chinese water deer
+76450,19/06/2018,148636,Strabane,Common vole
+76451,19/06/2018,148748,Radnor,Common pipstrelle bat
+76452,19/06/2018,148784,Colwyn,False killer whale
+76453,19/06/2018,148832,Cumbria,False killer whale
+76454,19/06/2018,148940,Shropshire,Eurasian beaver
+76455,19/06/2018,149006,Cornwall,Red squirrel
+76456,19/06/2018,149086,Lliw Valley,Wood mouse
+76457,19/06/2018,149140,Dungannon,Weasel
+76458,19/06/2018,149310,Borders,Stoat
+76459,19/06/2018,149288,Arfon,Harvest mouse
+76460,19/06/2018,149246,Lincolnshire,Red fox
+76461,19/06/2018,149398,Kent,Fallow deer
+76462,19/06/2018,149504,Lisnakea,Hedgehog
+76463,19/06/2018,148562,Suffolk,Daubenton’s bat
+76464,20/06/2018,148640,Grampian,Pygmy shrew
+76465,20/06/2018,148750,Edinburgh,Harp seal
+76466,20/06/2018,148788,Somerset,Hedgehog
+76467,20/06/2018,148834,Larne,Ringed seal 
+76468,20/06/2018,148942,Aberconwy,Common shrew
+76469,20/06/2018,149008,Staffordshire,Harvest mouse
+76470,20/06/2018,149088,Hampshire,Badger
+76471,20/06/2018,149146,Bristol,Black rat
+76472,20/06/2018,149314,Castlederg,Brown hare
+76473,20/06/2018,149290,Warwickshire,Wood mouse
+76474,20/06/2018,149300,Hertfordshire,Red squirrel
+76475,20/06/2018,149400,Northumberland,Hedgehog
+76476,20/06/2018,149506,Highland,Otter
+76477,20/06/2018,148564,Lancashire,Barbastelle bat
+76478,20/06/2018,149510,Surrey,Hedgehog
+76479,21/06/2018,148642,Wiltshire,Grey squirrel
+76480,21/06/2018,148756,Bristol,Harbour porpoise
+76481,21/06/2018,148790,Montgomery,Brown hare
+76482,21/06/2018,148836,Ayrshire and Lanark,Mountain hare
+76483,21/06/2018,148944,Cambridgeshire,Fin whale
+76484,21/06/2018,149010,Hereford and Worcestershire,Hedgehog
+76485,21/06/2018,149090,Swansea,Fraser’s dolphin
+76486,21/06/2018,149148,North Yorkshire,Red squirrel
+76487,21/06/2018,149326,Omagh,Grey long-eared bat
+76488,21/06/2018,149292,Ceredigigion,Fallow deer
+76489,21/06/2018,149304,Dwyfor,Weasel
+76490,21/06/2018,149402,South Yorkshire,Grey squirrel
+76491,21/06/2018,149316,Cheshire,Field vole
+76492,21/06/2018,148566,Argyll and Bute,Walrus
+76493,21/06/2018,149512,Western Isles,Otter
+76494,22/06/2018,148646,Durham,Orkney vole
+76495,22/06/2018,148760,Devon,Bank vole
+76496,22/06/2018,148792,Neath,Skomer vole
+76497,22/06/2018,148838,South Pembrokeshire,Risso’s dolphin
+76498,22/06/2018,148946,Anglesey,Common pipstrelle bat
+76499,22/06/2018,149012,Newcastle,Harvest mouse
+76500,22/06/2018,149092,Hillsborough,Nathusius’ pipistrelle bat
+76501,22/06/2018,149150,Irvinestown,Fallow deer
+76502,22/06/2018,149330,Norfolk,Wood mouse
+76503,22/06/2018,149294,Fife,Badger
+76504,22/06/2018,149312,Newport,Greater horseshoe bat
+76505,22/06/2018,149404,Rhymney Valley,Roe deer
+76506,22/06/2018,149322,Anglesey,Grey seal
+76507,22/06/2018,148568,Cookstown,Brown rat
+76508,22/06/2018,149514,Buckinghamshire,Badger
+76509,23/06/2018,148648,Brecknock,Feral cat
+76510,23/06/2018,148764,West Midlands,Pine marten
+76511,23/06/2018,148800,Alyn and Deeside,Stoat
+76512,23/06/2018,148806,Tanderagee,Nathusius’ pipistrelle bat
+76513,23/06/2018,148948,Castlereagh,Fallow deer
+76514,23/06/2018,149016,Berkshire,Harvest mouse
+76515,23/06/2018,149094,Gloucestershire,Mountain hare
+76516,23/06/2018,149152,Camarthen,European rabbit
+76517,23/06/2018,149214,Leicestershire,Badger
+76518,23/06/2018,149296,Coleraine,Red fox
+76519,23/06/2018,149320,Dumfries and Galloway,Brown long-eared bat
+76520,23/06/2018,149406,Tayside,Pygmy shrew
+76521,23/06/2018,149434,Merthyr Tydfil,Harvest mouse
+76522,23/06/2018,148570,Rhondda,Grey squirrel
+76523,23/06/2018,149516,Oxfordshire,Hedgehog
+76524,24/06/2018,148650,West Yorkshire,American mink
+76525,24/06/2018,148878,Derbyshire,Orkney vole
+76526,24/06/2018,148802,Monmouth,Roe deer
+76527,24/06/2018,148856,Meirionnydd,Otter
+76528,24/06/2018,148950,Radnor,House mouse
+76529,24/06/2018,149018,Shropshire,Greater white-toothed shrew
+76530,24/06/2018,149096,Cornwall,Field vole
+76531,24/06/2018,149154,Colwyn,Badger
+76532,24/06/2018,149218,Lliw Valley,Irish hare
+76533,24/06/2018,149306,Lincolnshire,European rabbit
+76534,24/06/2018,149346,Kent,Common shrew
+76535,24/06/2018,149408,Borders,Common vole
+76536,24/06/2018,149436,Arfon,Common pipstrelle bat
+76537,24/06/2018,148572,Suffolk,Hedgehog
+76538,25/06/2018,148652,Cleveland,Greater horseshoe bat
+76539,25/06/2018,148886,Somerset,Noctule bat
+76540,25/06/2018,148804,Grampian,Bechstein’s bat
+76541,25/06/2018,148862,Staffordshire,Red fox
+76542,25/06/2018,148954,Aberconwy,Chinese water deer
+76543,25/06/2018,149020,Hampshire,Red fox
+76544,25/06/2018,149100,Bristol,Harbour porpoise
+76545,25/06/2018,149142,Warwickshire,Common pipstrelle bat
+76546,25/06/2018,149222,Hertfordshire,Red fox
+76547,25/06/2018,149328,Northumberland,Badger
+76548,25/06/2018,149348,Lancashire,Black rat
+76549,25/06/2018,149414,Surrey,Badger
+76550,25/06/2018,149440,Wiltshire,Common shrew
+76551,25/06/2018,148574,Highland,European mole
+76552,26/06/2018,148656,Nottinghamshire,Serotine bat
+76553,26/06/2018,149054,Ayrshire and Lanark,Brown hare
+76554,26/06/2018,148808,Montgomery,Brown rat
+76555,26/06/2018,148868,Cambridgeshire,Field vole
+76556,26/06/2018,148956,Hereford and Worcestershire,Common vole
+76557,26/06/2018,149022,North Yorkshire,Hooded seal
+76558,26/06/2018,149102,Swansea,Common shrew
+76559,26/06/2018,149156,South Yorkshire,Grey squirrel
+76560,26/06/2018,149224,Cheshire,House mouse
+76561,26/06/2018,149192,Argyll and Bute,European mole
+76562,26/06/2018,149350,Ceredigigion,Fallow deer
+76563,26/06/2018,149416,Dwyfor,European rabbit
+76564,26/06/2018,149444,Durham,Hedgehog
+76565,26/06/2018,148576,Devon,Irish hare
+76566,27/06/2018,148658,Western Isles,Harbour seal
+76567,27/06/2018,148672,Neath,Eurasian beaver
+76568,27/06/2018,148842,Newcastle,Feral ferret
+76569,27/06/2018,148872,South Pembrokeshire,True’s beaked whale
+76570,27/06/2018,148876,Hampshire,Feral horse (Exmoor / Dartmoor pony)
+76571,27/06/2018,149024,Norfolk,Bechstein’s bat
+76572,27/06/2018,149104,Devon,Feral horse (Exmoor / Dartmoor pony)
+76573,27/06/2018,149158,Fife,Grey seal
+76574,27/06/2018,149234,Newport,Red fox
+76575,27/06/2018,149196,Rhymney Valley,Brown rat
+76576,27/06/2018,149352,Buckinghamshire,Roe deer
+76577,27/06/2018,149418,West Midlands,Red fox
+76578,27/06/2018,149446,Brecknock,Brown hare
+76579,27/06/2018,148578,Berkshire,Common vole
+76580,28/06/2018,148662,Cornwall,Humpback whale
+76581,28/06/2018,148674,Alyn and Deeside,Water vole
+76582,28/06/2018,148844,Leicestershire,Grey squirrel
+76583,28/06/2018,148894,Dumfries and Galloway,Long-finned pilot whale
+76584,28/06/2018,148880,Camarthen,Fraser’s dolphin
+76585,28/06/2018,149030,Oxfordshire,Hedgehog
+76586,28/06/2018,149108,West Yorkshire,Otter
+76587,28/06/2018,149160,Tayside,Water shrew
+76588,28/06/2018,149236,Merthyr Tydfil,Greater mouse-eared bat
+76589,28/06/2018,149200,Rhondda,Field vole
+76590,28/06/2018,149354,Derbyshire,Red deer
+76591,28/06/2018,149422,Monmouth,Otter
+76592,28/06/2018,149448,Suffolk,Common pipstrelle bat
+76593,28/06/2018,148580,Cambridgeshire,Black rat
+76594,29/06/2018,148664,Dorset,Badger
+76595,29/06/2018,148676,Shropshire,Red fox
+76596,29/06/2018,148858,Bristol,Bank vole
+76597,29/06/2018,148896,Hereford and Worcestershire,Brown rat
+76598,29/06/2018,148958,Buckinghamshire,Badger
+76599,29/06/2018,149032,Cornwall,Reeves’ muntjac deer
+76600,29/06/2018,149110,Warwickshire,Badger
+76601,29/06/2018,149162,North Yorkshire,Wildcat
+76602,29/06/2018,149238,West Midlands,Wood mouse
+76603,29/06/2018,149204,Lincolnshire,Pygmy shrew
+76604,29/06/2018,149356,Hertfordshire,Badger
+76605,29/06/2018,149424,Western Isles,Harbour seal
+76606,29/06/2018,149450,Berkshire,Common vole
+76607,29/06/2018,148582,Kent,Polecat
+76608,30/06/2018,148666,Northumberland,Badger
+76609,30/06/2018,148678,Cheshire,Wild boar
+76610,30/06/2018,148860,Gloucestershire,Hedgehog
+76611,30/06/2018,148898,Suffolk,European mole
+76612,30/06/2018,148960,Lancashire,Red fox
+76613,30/06/2018,149034,Durham,House mouse
+76614,30/06/2018,149122,Leicestershire,Hedgehog
+76615,30/06/2018,149164,Cleveland,Common vole
+76616,30/06/2018,149240,Hampshire,Feral horse (Exmoor / Dartmoor pony)
+76617,30/06/2018,149208,Devon,Grey long-eared bat
+76618,30/06/2018,149358,Oxfordshire,Red fox
+76619,30/06/2018,149426,Somerset,Weasel
+76620,30/06/2018,149452,Wiltshire,Stoat
+76621,30/06/2018,148584,Newcastle,Red fox
+76622,30/06/2018,148586,West Yorkshire,Greater mouse-eared bat
+76623,30/06/2018,148518,Staffordshire,Hedgehog
